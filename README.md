@@ -2,7 +2,7 @@
 
 1. Downlaod this .xml file 
 2. Import it in ReadyAPI/SOAPUI
-3. Test Cases created in SOAPUI and assertion did with response json
+3. Test Cases created in ReadyAPI and assertion did with response json
 
 
 
